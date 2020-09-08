@@ -1,18 +1,18 @@
 ---
 nav:
-  title: JavaScript
-  path: /javascript
+  title: JS
+  path: /js
 ---
 
-## Foo
+## JS
 
 Demo:
 
 ``` tsx
 import React from 'react';
-import { Foo } from 'points';
+import { JS } from 'woodpecker';
 
-export default () => <Foo title="First Demo" />;
+export default () => <JS title="First Demo" />;
 ```
 
 ### 点表示法
