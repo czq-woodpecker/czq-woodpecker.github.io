@@ -1,14 +1,14 @@
 ---
 nav:
-  title: Components
-  path: /components
+  title: JavaScript
+  path: /javascript
 ---
 
 ## Foo
 
 Demo:
 
-```
+``` tsx
 import React from 'react';
 import { Foo } from 'points';
 
